@@ -58,7 +58,7 @@ def make_tree(pre_order, in_order):
             pos=pos+1, 
             poe=pos+in_order_left, 
             in_order = in_order, 
-            ios = 0, 
+            ios = ios, 
             ioe = root_index-1
         )
 
@@ -109,11 +109,11 @@ def tree_to_dll(root):
 
 
 if __name__ == "__main__":
-    r = sorted_array_to_bst([-10, -3, 0, 5, 9])
-    print(r)
-
-    # r = make_tree(
-    #     pre_order=[3, 9, 20, 15, 7],
-    #     in_order=[9, 3, 15, 20, 7]
-    # )
+    # r = sorted_array_to_bst([-10, -3, 0, 5, 9]) 
     # print(r)
+
+    r = make_tree(
+        pre_order=[3, 9, 20, 15, 7],
+        in_order=[9, 3, 15, 20, 7]
+    )
+    print(r)
