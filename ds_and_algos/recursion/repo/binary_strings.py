@@ -1,5 +1,3 @@
-
-
 # def binary_strings(n):
 #     print('n', n)
 #     if n == 1:
@@ -37,4 +35,4 @@ def binary_strings(n):
     helper("", n)
 
 r = binary_strings(3)
-print('answer:', r)  
+print('answer:', r)
