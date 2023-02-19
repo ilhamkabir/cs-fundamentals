@@ -44,7 +44,7 @@ def solve(row=0, col=0):
             board[row][col] = n
             if solve(row, col + 1):
                 return True
-        board[row][col] = 0
+            board[row][col] = 0
 
     return False
 
