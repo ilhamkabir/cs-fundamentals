@@ -49,7 +49,7 @@ step 2: sort & merge
 def merge_sort(array, start, end):
     # base case
     if start == end:
-        return array[start]
+        return array
     # split into 2 halves
     mid = (start+end)//2
     merge_sort(array, start, mid)
