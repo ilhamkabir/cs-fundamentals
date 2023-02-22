@@ -1,5 +1,3 @@
-from pprint import pprint
-
 # number of ways to get to amount with the given coins. 
 def coin_change(coins=[1, 2, 5], amount=5):
     rows = len(coins)+1
