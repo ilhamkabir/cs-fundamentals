@@ -71,3 +71,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_science/data_science_process.pdf">
     Data Science Process (pdf)
 </a>
+
+- <a href="https://github.com/ilhamkabir/scorecard-analysis/blob/master/notebooks/complete-crisp-dm-process.ipynb">
+    CRISP-DM (example)
+</a>
