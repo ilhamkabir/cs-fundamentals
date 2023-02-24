@@ -10,9 +10,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
     Mastering CS Fundamentals - Syllabus (Google Doc)
 </a>
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/coding_fundamentals/coding_fundamentals_w_python.pdf">
-    Coding Fundamentals, with Python (pdf)
-</a>
+- [Coding Fundamentals, with Python (pdf)](coding_fundamentals/coding_fundamentals_w_python.pdf)
 
 ## [Data Structures and Algorithms](data_structures_and_algorithms)
 
@@ -30,33 +28,17 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 
 - [Recursion (pdf)](data_structures_and_algorithms/recursion.pdf)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/recursion.pdf">
-    Recursion (pdf)
-</a>
+- [Trees (pdf)](data_structures_and_algorithms/trees.pdf)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/trees.pdf">
-    Trees (pdf)
-</a>
+- [Graphs (pdf)](data_structures_and_algorithms/graphs.pdf)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/graphs.pdf">
-    Graphs (pdf)
-</a>
-
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/dynamic_programming.pdf">
-    Dynamic Programming (pdf)
-</a>
+- [Dynamic Programming (pdf)](data_structures_and_algorithms/dynamic_programming.pdf)
 
 ## [System Design](system_design)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/coding_fundamentals/coding_fundamentals_w_python.pdf">
-    Design Patterns
-</a>
-    Design Patterns are model solutions to common software design problems. They are tools that can make our code more readable, easier to understand, and easier to test.
-<br /><br />
+- [Design Patterns](system_design/design_patterns)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/system_design/software_architecture.pdf">
-    Software Architecture (pdf)
-</a>
+- [Software Architecture (pdf)](system_design/software_architecture.pdf)
 
 ## Infrastructure (Cloud)
 
@@ -68,9 +50,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 
 ## [Data Science](data_science)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_science/data_science_process.pdf">
-    Data Science Process (pdf)
-</a>
+- [Data Science Process (pdf)](data_science/data_science_process.pdf)
 
 - <a href="https://github.com/ilhamkabir/scorecard-analysis/blob/master/notebooks/complete-crisp-dm-process.ipynb">
     CRISP-DM (example)
