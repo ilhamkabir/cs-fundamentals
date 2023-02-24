@@ -9,6 +9,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 - <a href="https://docs.google.com/document/d/16t4B2HZM4Gp31ocBLcSG0R-CpuXb7_hqGROF7RmOvrQ/edit">
     Mastering CS Fundamentals - Syllabus (Google Doc)
 </a>
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/coding_fundamentals/coding_fundamentals_w_python.pdf">
     Coding Fundamentals, with Python (pdf)
 </a>
@@ -16,17 +17,17 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 ## [Data Structures and Algorithms](data_structures_and_algorithms)
 
 - [Sorting](data_structures_and_algorithms/sorting/)
-    - [Selection (Example)](data_structures_and_algorithms/sorting/selection.py)
-    - [Bubble (Example)](data_structures_and_algorithms/sorting/bubble.py)
-    - [Insertion (Example)](data_structures_and_algorithms/sorting/insertion.py)
-    - [Radix (Example)](data_structures_and_algorithms/sorting/radix.py)
-    - [Counting (Example)](data_structures_and_algorithms/sorting/counting.py)
-    - [Merge (Example)](data_structures_and_algorithms/sorting/merge.py)
-    - [Quick (Example)](data_structures_and_algorithms/sorting/quick.py)
+    - [Selection (example)](data_structures_and_algorithms/sorting/selection.py)
+    - [Bubble (example)](data_structures_and_algorithms/sorting/bubble.py)
+    - [Insertion (example)](data_structures_and_algorithms/sorting/insertion.py)
+    - [Radix (example)](data_structures_and_algorithms/sorting/radix.py)
+    - [Counting (example)](data_structures_and_algorithms/sorting/counting.py)
+    - [Merge (example)](data_structures_and_algorithms/sorting/merge.py)
+    - [Quick (example)](data_structures_and_algorithms/sorting/quick.py)
 <br /><br />
 
 - [Abstract Data Types (ADT)](data_structures_and_algorithms/abstract_data_types/)
-    - [Min Heap (Example)](data_structures_and_algorithms/abstract_data_types/min_heap.py)
+    - [Min Heap (example)](data_structures_and_algorithms/abstract_data_types/min_heap.py)
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/recursion.pdf">
@@ -70,5 +71,3 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_science/data_science_process.pdf">
     Data Science Process (pdf)
 </a>
-
-<br /><br />
