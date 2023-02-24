@@ -28,6 +28,8 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 - [Abstract Data Types (ADT)](data_structures_and_algorithms/abstract_data_types/)
     - [Min Heap (example)](data_structures_and_algorithms/abstract_data_types/min_heap.py)
 
+- [Recursion (pdf)](data_structures_and_algorithms/recursion.pdf)
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/recursion.pdf">
     Recursion (pdf)
 </a>
