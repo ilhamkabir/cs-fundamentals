@@ -10,49 +10,39 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
     Mastering CS Fundamentals - Syllabus (Google Doc)
 </a>
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/coding_fundamentals/coding_fundamentals_w_python.pdf">
-    Coding Fundamentals, with Python (PDF)
+    Coding Fundamentals, with Python (pdf)
 </a>
 
 ## [Data Structures and Algorithms](data_structures_and_algorithms)
 
-- <a href="https://github.com/ilhamkabir/coding-sandbox/tree/main/data_structures_and_algorithms/sorting">
-    Sorting
-</a>
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/selection.py">
-        Selection (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/bubble.py">
-        Bubble (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/insertion.py">
-        Insertion (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/radix.py">
-        Radix (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/counting.py">
-        Counting (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/merge.py">
-        Merge (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/quick.py">
-        Quick (Example)
-    </a><br />
-    - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/sorting/heap.py">
-        Heap (Example)
-    </a><br />
+- [Sorting](data_structures_and_algorithms/sorting/)
+    - [Selection (Example)](data_structures_and_algorithms/sorting/selection.py)
+    - [Bubble (Example)](data_structures_and_algorithms/sorting/bubble.py)
+    - [Insertion (Example)](data_structures_and_algorithms/sorting/insertion.py)
+    - [Radix (Example)](data_structures_and_algorithms/sorting/radix.py)
+    - [Counting (Example)](data_structures_and_algorithms/sorting/counting.py)
+    - [Merge (Example)](data_structures_and_algorithms/sorting/merge.py)
+    - [Quick (Example)](data_structures_and_algorithms/sorting/quick.py)
+<br /><br />
+
+- [Abstract Data Types (ADT)](data_structures_and_algorithms/abstract_data_types/)
+    - [Min Heap (Example)](data_structures_and_algorithms/abstract_data_types/min_heap.py)
+<br /><br />
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/recursion.pdf">
-    Recursion (PDF)
+    Recursion (pdf)
 </a>
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/trees.pdf">
-    Trees (PDF)
+    Trees (pdf)
 </a>
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/graphs.pdf">
-    Graphs (PDF)
+    Graphs (pdf)
 </a>
+
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/dynamic_programming.pdf">
-    Dynamic Programming (PDF)
+    Dynamic Programming (pdf)
 </a>
 
 ## [System Design](system_design)
@@ -64,7 +54,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 <br /><br />
 
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/system_design/software_architecture.pdf">
-    Software Architecture (PDF)
+    Software Architecture (pdf)
 </a>
 
 ## Infrastructure (Cloud)
@@ -78,7 +68,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 ## [Data Science](data_science)
 
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_science/data_science_process.pdf">
-    Data Science Process (PDF)
+    Data Science Process (pdf)
 </a>
 
 <br /><br />
