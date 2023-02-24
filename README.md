@@ -24,11 +24,11 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
     - [Counting (example)](data_structures_and_algorithms/sorting/counting.py)
     - [Merge (example)](data_structures_and_algorithms/sorting/merge.py)
     - [Quick (example)](data_structures_and_algorithms/sorting/quick.py)
-<br /><br />
+<br />
 
 - [Abstract Data Types (ADT)](data_structures_and_algorithms/abstract_data_types/)
     - [Min Heap (example)](data_structures_and_algorithms/abstract_data_types/min_heap.py)
-<br /><br />
+<br />
 
 - <a href="https://github.com/ilhamkabir/coding-sandbox/blob/main/data_structures_and_algorithms/recursion.pdf">
     Recursion (pdf)
