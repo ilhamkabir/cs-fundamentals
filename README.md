@@ -1,16 +1,53 @@
 ## Preface
 
-Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
+“Programming then is fun because it gratifies creative longings built deep within us and delights sensibilities we have in common with all men.”
+<br /> ― Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering
+
+Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sandbox)
 
 # Coding Sandbox
 
-## [Coding Fundamentals](coding_fundamentals)
+## Books
 
-- <a href="https://docs.google.com/document/d/16t4B2HZM4Gp31ocBLcSG0R-CpuXb7_hqGROF7RmOvrQ/edit">
-    Mastering CS Fundamentals - Syllabus (Google Doc)
+- <a href="https://docs.google.com/spreadsheets/d/15KFGI5mQGGKnKofPRN3ef_Iat7inz5rdVa6BcqfDTeg/edit#gid=1846067536">
+    Writing "Good" Code (Google Spreadsheet)
+</a> 
+
+- <a href="https://docs.google.com/spreadsheets/d/15KFGI5mQGGKnKofPRN3ef_Iat7inz5rdVa6BcqfDTeg/edit#gid=0">
+    Managing Software Engineering Teams (Google Spreadsheet)
 </a>
 
+## [Coding Fundamentals](coding_fundamentals)
+
+- Object Oriented Programming (OOP) Key Concepts and Terms
+    - Procedural vs OOP
+    - Class vs Object
+    - Instantiation vs Garbage Collection
+    - 4 Pillars of OOP:
+        1. Inheritance (vs Composition)
+        2. Encapsuation 
+        3. Polymorphism
+            - Override
+            - Overload
+        4. Abstraction
+    - SOLID Principles
+        - Single responsability
+        - Open/Closed
+        - Liskov substitution
+        - Interface segregation
+        - Dependency Inversion
+
 - [Coding Fundamentals, with Python (pdf)](coding_fundamentals/coding_fundamentals_w_python.pdf)
+    - Packages vs Modules
+    - Functions
+    - Closures
+    - Decorators
+    - Properties and Class Methods
+    - Strings and Representations
+    - Data Types
+    - Iterables vs Iterators
+    - Inheritance vs Subtype Polymorphism
+    - Collections
 
 ## [Data Structures and Algorithms](data_structures_and_algorithms)
 
@@ -42,11 +79,13 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 
 ## Infrastructure (Cloud)
 
-## CI/CD
+- Infrastructure as Code (IaC)
 
-## Security
+- Networking
 
-## Networking
+- Security
+
+## Continuous Integration and Continuous Delivery (CI/CD)
 
 ## [Data Science](data_science)
 
@@ -55,3 +94,5 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%20Essays)
 - <a href="https://github.com/ilhamkabir/scorecard-analysis/blob/master/notebooks/complete-crisp-dm-process.ipynb">
     CRISP-DM (example)
 </a>
+
+- Machine Learning
