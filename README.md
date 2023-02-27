@@ -27,7 +27,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
         1. Inheritance (vs Composition)
         2. Encapsuation 
         3. Polymorphism
-            - Override
+            - Override5
             - Overload
         4. Abstraction
     - SOLID Principles
@@ -37,7 +37,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
         - Interface segregation
         - Dependency Inversion
 
-- [Coding Fundamentals, with Python (pdf)](coding_fundamentals/coding_fundamentals_w_python.pdf)
+- [Coding Fundamentals, with Python (pdf)](oop/coding_fundamentals_w_python.pdf)
     - Packages vs Modules
     - Functions
     - Closures
