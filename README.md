@@ -5,7 +5,7 @@
 
 Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sandbox)
 
-# Coding Sandbox
+# CS Fundamentlas
 
 ## Books
 
@@ -17,9 +17,9 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
     Managing Software Engineering Teams (Google Spreadsheet)
 </a>
 
-## [Coding Fundamentals](coding_fundamentals)
+## [Object Oriented Programming (OOP)](oop)
 
-- Object Oriented Programming (OOP) Key Concepts and Terms
+- OOP Key Concepts and Terms
     - Procedural vs OOP
     - Class vs Object
     - Instantiation vs Garbage Collection
