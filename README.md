@@ -37,7 +37,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
         - Interface segregation
         - Dependency Inversion
 
-- [Coding Fundamentals, with Python (pdf)](oop/coding_fundamentals_w_python.pdf)
+- [Python, Beyond the Basics (pdf)](oop/python_beyond_basics.pdf)
     - Packages vs Modules
     - Functions
     - Closures
