@@ -5,7 +5,7 @@
 
 Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sandbox)
 
-# CS Fundamentlas
+# CS Fundamentals
 
 ## Books
 
