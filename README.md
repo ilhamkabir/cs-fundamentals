@@ -17,7 +17,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
     Managing Software Engineering Teams (Google Spreadsheet)
 </a>
 
-## [Object Oriented Programming (OOP)](oop)
+## Object Oriented Programming (OOP)
 
 - OOP Key Concepts and Terms
     - Procedural vs OOP
@@ -37,7 +37,9 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
         - Interface segregation
         - Dependency Inversion
 
-- [Python, Beyond the Basics (pdf)](oop/python_beyond_basics.pdf)
+## [Programming Languages](languages)
+
+- [Python (pdf)](languages/python/python_beyond_basics.pdf)
     - Packages vs Modules
     - Functions
     - Closures
