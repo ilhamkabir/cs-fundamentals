@@ -27,7 +27,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
         1. Inheritance (vs Composition)
         2. Encapsuation 
         3. Polymorphism
-            - Override5
+            - Override
             - Overload
         4. Abstraction
     - SOLID Principles
