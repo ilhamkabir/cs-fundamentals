@@ -22,7 +22,7 @@ Creational Patterns provide or modify the interface for creating objects.
 
 #### 6 Common Creational Design Patterns
 
-1. [Builder](/system_architecture/design_patterns/creational/builder)
+1. [Builder](/system_design/design_patterns/creational/builder)
 ```
 The Builder Pattern seperates an object's initialization from its construction and then decomposes its initialization into lots of smaller operations that can be called on independent of one another. 
 
@@ -39,7 +39,7 @@ Benefits:
 3. The same creation can have more representations.
 ```
 
-2. [Factory Pattern](/system_architecture/design_patterns/creational/factory.py)
+2. [Factory Pattern](/system_design/design_patterns/creational/factory.py)
 ```
 Alternative name: Virtual Constructor Pattern
 
@@ -48,24 +48,24 @@ A "Factory Object" is an object that creates other objects.
 The Factory Pattern creates a specific representation of ONE class. So classes are usually really simple since it only has one factory method.
 ```
 
-3. [Abstract Factory](/system_architecture/design_patterns/creational/abstract_factory.py)
+3. [Abstract Factory](/system_design/design_patterns/creational/abstract_factory.py)
 ```
 The Factory Pattern on steroids.
 
 Where the Factory Pattern can create a new representation of ONE class, The Abstract Factory Pattern can create representations of several classes (so it'll have several factory methods).
 ```
 
-4. [Prototype](/system_architecture/design_patterns/creational/prototype.py)
+4. [Prototype](/system_design/design_patterns/creational/prototype.py)
 ```
 A fully initialized instance to be coppied or cloned.
 ```
 
-5. [Singleton](/system_architecture/design_patterns/creational/singleton.py)
+5. [Singleton](/system_design/design_patterns/creational/singleton.py)
 ```
 A class of which only a single instance can exist.
 ```
 
-6. [Object Pool](/system_architecture/design_patterns/creational/object_pool.py)
+6. [Object Pool](/system_design/design_patterns/creational/object_pool.py)
 ```
 Provides a mechanism to reuse/reshare objects
 
@@ -80,7 +80,7 @@ Structural Patterns define how different classes combine to form larger structur
 
 #### 8 Common Behavioral Structural Patterns
 
-1. [Adapter](/system_architecture/design_patterns/structural/adapter.py)
+1. [Adapter](/system_design/design_patterns/structural/adapter.py)
 ```
 Alternative name: Wrapper Patern
 
@@ -90,7 +90,7 @@ Benefit:
 - Makes it easier to comply with the Liskov Substitution Principal!
 ```
 
-2. [Bridge](/system_architecture/design_patterns/structural/bridge.py)
+2. [Bridge](/system_design/design_patterns/structural/bridge.py)
 ```
 Alternative name: "Handle Pattern" or "Body Pattern"
 
@@ -106,7 +106,7 @@ Benefit:
 Compose objects into a tree structure represented by part-whole hierarchies.
 ```
 
-4. [Decorator](/system_architecture/design_patterns/structural/decorator.py)
+4. [Decorator](/system_design/design_patterns/structural/decorator.py)
 ```
 Alternative name: Wrapper Pattern
 
@@ -117,19 +117,19 @@ Benefits:
 - Allows objects to dynamically adjust their representations at runtime. 
 ```
 
-5. [Facade](/system_architecture/design_patterns/structural/facade.py)
+5. [Facade](/system_design/design_patterns/structural/facade.py)
 ```
 A single class that represents an entire subsystems.
 
 Basically just an interface that delegates client requests to the appropriate subsystem. 
 ```
 
-6. [Flyweight](/system_architecture/design_patterns/structural/flyweight.py)
+6. [Flyweight](/system_design/design_patterns/structural/flyweight.py)
 ```
 Lets you fit more objects into available RAM by sharing intrinsic members of the objects.
 ```
 
-7. [Private Class Data](/system_architecture/design_patterns/structural/private_class_data.py)
+7. [Private Class Data](/system_design/design_patterns/structural/private_class_data.py)
 ```
 Encapsulate private data in a seperate class and then create a proxy class with controlled access to it.
 ```
@@ -152,14 +152,14 @@ Behavioral Design Patterns assign responsibilities to individual classes so that
 
 #### 12 Common Behavioral Design Patterns
 
-1. [Chain of Responsability](/system_architecture/design_patterns/behavioral/chain_of_responsability.py)
+1. [Chain of Responsability](/system_design/design_patterns/behavioral/chain_of_responsability.py)
 ```
 A chain of responsabilities (or a "list of responsabilities")
 
 An organized way of handling reuqests that need to be performed in a specific order.
 ```
 
-2. [Command](/system_architecture/design_patterns/behavioral/command.py)
+2. [Command](/system_design/design_patterns/behavioral/command.py)
 ```
 Alternative names: Action Pattern or Transaction Pattern
 
@@ -181,7 +181,7 @@ Provides consistent language elements.
 - 
 ```
 
-5. [Mediator](/system_architecture/design_patterns/behavioral/mediator.py)
+5. [Mediator](/system_design/design_patterns/behavioral/mediator.py)
 ```
 A mediator provides an interface to communicate between multiple concrete classes.
 
@@ -190,7 +190,7 @@ A manager is a mediator for his/her employees. Tasks are given to managers for t
 Not a fan b/c mediator classes usually turn into monoliths!
 ```
 
-6. [Memento](/system_architecture/design_patterns/behavioral/memento.py)
+6. [Memento](/system_design/design_patterns/behavioral/memento.py)
 ```
 Used to capture and restore a snapshot of an object's state.
 
@@ -199,33 +199,33 @@ Used to capture and restore a snapshot of an object's state.
 Handy for games where you don't want to start from level 0 if your computer crashes. 
 ```
 
-7. [Null Object](/system_architecture/design_patterns/behavioral/null_object.py)
+7. [Null Object](/system_design/design_patterns/behavioral/null_object.py)
 ```
 Alternative name: Mini pattern
 
 Provides a default value for an object.
 ```
 
-8. [Observer](/system_architecture/design_patterns/behavioral/observer.py)
+8. [Observer](/system_design/design_patterns/behavioral/observer.py)
 ```
 Alternative Names: Dependents Pattern or Publisher-Subscriber Pattern
 
 "Subject" notifies changes to several "observers".
 ```
 
-9. [Strategy](/system_architecture/design_patterns/behavioral/strategy.py)
+9. [Strategy](/system_design/design_patterns/behavioral/strategy.py)
 ```
 Alternative name: Policy Pattern
 
 Provide the operator an encapsulated algorithm to run.
 ```
 
-10. [State](/system_architecture/design_patterns/behavioral/state.py)
+10. [State](/system_design/design_patterns/behavioral/state.py)
 ```
 Alter's an object's functionality depending on the state that it's in.
 ```
 
-11. [Template](/system_architecture/design_patterns/behavioral/template.py)
+11. [Template](/system_design/design_patterns/behavioral/template.py)
 ```
 Include the steps of an algorithm in the abstract/interface class.
 
@@ -233,7 +233,7 @@ Include the steps of an algorithm in the abstract/interface class.
 
 ```
 
-12. [Visitor Method](/system_architecture/design_patterns/behavioral/visitor.py)
+12. [Visitor Method](/system_design/design_patterns/behavioral/visitor.py)
 ```
 Extend the functionality of a class by encapsulating it in a "visitor" class.
 
