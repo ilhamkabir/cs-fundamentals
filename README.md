@@ -3,7 +3,7 @@
 “Programming then is fun because it gratifies creative longings built deep within us and delights sensibilities we have in common with all men.”
 <br /> ― Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering
 
-Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sandbox)
+Feel free to reach out if you'd like to talk tech! Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sandbox)
 
 # CS Fundamentals
 
@@ -80,6 +80,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
 - [Software Architecture (pdf)](system_design/software_architecture.pdf)
 
 ## Infrastructure (Cloud)
+[I'll add my notes soon]
 
 - Infrastructure as Code (IaC)
 
@@ -88,6 +89,7 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
 - Security
 
 ## Continuous Integration and Continuous Delivery (CI/CD)
+[I'll add my notes soon]
 
 ## [Data Science](data_science)
 
@@ -98,3 +100,4 @@ Email: [me@ilhamkabir.com](mailto:me@ilhamkabir.com?subject=[GitHub]%Coding-Sand
 </a>
 
 - Machine Learning
+<br /> [I'll add my notes soon]
