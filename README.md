@@ -79,6 +79,8 @@ Feel free to reach out if you'd like to talk tech! Email: [me@ilhamkabir.com](ma
 
 - [Software Architecture (pdf)](system_design/software_architecture.pdf)
 
+- [Scalable Systems - Examples (pdf)](system_design/scalable_systems_examples.pdf)
+
 ## Infrastructure (Cloud)
 [I'll add my notes soon]
 
